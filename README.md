@@ -1,9 +1,11 @@
 # -dio-exercício-game
 Técnicas de Engenharia de Prompt
 
-Concluir o exercício com game proposto pela Aline, na DIO, foi muito mais do que apenas cumprir uma tarefa: foi uma oportunidade de refletir sobre como aprendemos e como aplicamos o conhecimento.
+Concluir o exercício com game proposto pela Aline, na DIO, foi muito mais do que apenas cumprir uma tarefa: 
+foi uma oportunidade de refletir sobre como aprendemos e como aplicamos o conhecimento.
 
-A gamificação trouxe leveza ao processo, mas também me mostrou que pensar de forma estruturada é essencial para resolver problemas complexos. A cada etapa, percebi que a cadeia de pensamento não é apenas uma técnica, mas uma forma de enxergar o mundo com mais clareza e lógica.
+A gamificação trouxe leveza ao processo, mas também me mostrou que pensar de forma estruturada é essencial para resolver problemas complexos. 
+A cada etapa, percebi que a cadeia de pensamento não é apenas uma técnica, mas uma forma de enxergar o mundo com mais clareza e lógica.
 
 Reflexões que levo comigo:
 
